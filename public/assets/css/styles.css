@@ -1,0 +1,12 @@
+
+.glyphicon-remove, .glyphicon-ok {
+    padding-top: 6px;
+    font-size: 18px;
+    display: none;
+}
+.glyphicon-remove {
+    color: #a94442;
+}
+.glyphicon-ok {
+    color: #007236;
+}
